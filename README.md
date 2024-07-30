@@ -20,9 +20,9 @@ The model used is a U-Net, a type of convolutional neural network that is effect
 
 ### Hyperparameters
 
-- **EPOCHS**: 10 (It is recommended to train with more epochs for better and higher accuracy)
-- **VAL_SUBSPLITS**: 5
-- **BATCH_SIZE**: 25
+- **Epochs**: 10 (It is recommended to train with more epochs for better and higher accuracy)
+- **Val_Subsplits**: 5
+- **Batch_Size**: 25
 
 ## Usage
 
