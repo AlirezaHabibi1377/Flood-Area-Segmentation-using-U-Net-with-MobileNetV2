@@ -1,6 +1,6 @@
 # Flood Area Segmentation using U-Net with MobileNetV2
 
-This repository contains code for semantic segmentation of flood-hit areas using a U-Net architecture with MobileNetV2 as the base model. The objective is to accurately segment the water region in images of flood-affected areas.
+This repository contains code for semantic segmentation of flood-hit areas using a U-Net architecture with MobileNetV2 as the base model. The objective is to segment the water region in images of flood-affected areas.
 
 ## Dataset
 
@@ -20,7 +20,7 @@ The model used is a U-Net, a type of convolutional neural network that is effect
 
 ### Hyperparameters
 
-- **EPOCHS**: 10 (It is recommended to train with more epochs for better accuracy)
+- **EPOCHS**: 10 (It is recommended to train with more epochs for better and higher accuracy)
 - **VAL_SUBSPLITS**: 5
 - **BATCH_SIZE**: 25
 
