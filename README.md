@@ -28,25 +28,14 @@ The model used is a U-Net, a type of convolutional neural network that is effect
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/AlirezaHabibi1377/Flood-Area-Segmentation-using-U-Net-with-MobileNetV2.git
     ```
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation) and place it in the appropriate directory.
 
-3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation) and place it in the appropriate directory.
-
-4. Run the training script:
+3. Run the notebook script:
     ```bash
-    python train.py
-    ```
-
-5. Evaluate the model:
-    ```bash
-    python evaluate.py
+    DL_1_Semantic_Segmentation_Flood.ipynb
     ```
 
 ## Conclusion
