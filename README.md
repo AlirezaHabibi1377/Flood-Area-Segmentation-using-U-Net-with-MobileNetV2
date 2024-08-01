@@ -37,6 +37,29 @@ The model used is a U-Net, a type of convolutional neural network that is effect
     ```bash
     DL_1_Semantic_Segmentation_Flood.ipynb
     ```
+# Outputs (for just 3 random images)
+
+- **epoch 1:**
+![Output Image](mask_150_0.png)
+- **epoch 2:**
+![Output Image](mask_150_1.png)
+- **epoch 3:**
+![Output Image](mask_150_2.png)
+- **epoch 4:**
+![Output Image](mask_150_3.png)
+- **epoch 5:**
+![Output Image](mask_150_4.png)
+- **epoch 6:**
+![Output Image](mask_150_5.png)
+- **epoch 7:**
+![Output Image](mask_150_6.png)
+- **epoch 8:**
+![Output Image](mask_150_7.png)
+- **epoch 9:**
+![Output Image](mask_150_8.png)
+- **epoch 10:**
+![Output Image](mask_150_9.png)
+
 
 ## Conclusion
 
