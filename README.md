@@ -4,7 +4,7 @@ This repository contains code for semantic segmentation of flood-hit areas using
 
 ## Dataset
 
-The dataset used is the [Flood Area Segmentation](https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation) from Kaggle. It consists of 290 images and their corresponding self-annotated mask images, which highlight the water regions. The masks were created using Label Studio, an open-source data labeling software.
+The dataset used is the [Flood Area Segmentation](https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation) from Kaggle. It consists of 290 images and their corresponding self-annotated mask images, highlighting the water regions. The masks were created using Label Studio, an open-source data labeling software.
 
 ### Dataset Description
 
@@ -39,25 +39,24 @@ The model used is a U-Net, a type of convolutional neural network that is effect
     ```
 # Outputs (for just 3 random images)
 
-- **epoch 1:**
 ![Output Image](mask_150_0.png)
-- **epoch 2:**
+
 ![Output Image](mask_150_1.png)
-- **epoch 3:**
+
 ![Output Image](mask_150_2.png)
-- **epoch 4:**
+
 ![Output Image](mask_150_3.png)
-- **epoch 5:**
+
 ![Output Image](mask_150_4.png)
-- **epoch 6:**
+
 ![Output Image](mask_150_5.png)
-- **epoch 7:**
+
 ![Output Image](mask_150_6.png)
-- **epoch 8:**
+
 ![Output Image](mask_150_7.png)
-- **epoch 9:**
+
 ![Output Image](mask_150_8.png)
-- **epoch 10:**
+
 ![Output Image](mask_150_9.png)
 
 
